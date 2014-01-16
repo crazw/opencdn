@@ -1,7 +1,7 @@
-1��ȫվ���桢�ų���̬�ű���ocdn-template1
+1、全站缓存、排除动态脚本：ocdn-template1
 
-2��������չ���桢htm���桢ȫվ��Դ��ocdn-template2
+2、常用扩展缓存、htm缓存、全站回源：ocdn-template2
 
-3��������չ���桢��ҳ/Ŀ¼���桢htm���桢ȫվ��Դ��ocdn-template3
+3、常用扩展缓存、首页/目录缓存、htm缓存、全站回源：ocdn-template3
 
-4��ȫվ��Դ��ocdn-template4
+4、全站回源：ocdn-template4
