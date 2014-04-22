@@ -1,9 +1,11 @@
-# Author:crazw
-# E-mail:jiazhanwei1991@gmail.com
-# Blog:www.appad.net
+OpenCDN缓存配置
 
+======
 
-opencdn
+Author:crazw
+E-mail:craazw@gmail.com
+Blog:http://www.crazw.com/
+
 =======
 
 OpenCDN's cache conf files
